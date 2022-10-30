@@ -20,10 +20,10 @@ HTML and CSS template for your outstanding job applications -->
 
 ## Main Content
 
-*English
-*Math
-
-
+* Evolutionary Computation
+* Machine Learning
+* English
+* Bookmarks
 
 <!-- This repo contains the final source code for free tutorial.
 
