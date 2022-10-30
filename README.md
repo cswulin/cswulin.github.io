@@ -1,9 +1,9 @@
 <div align="center">
-<h1 align="center">Oh, So Simple HTML CV!</h1>
+<h1 align="center">Oh, This Is My CV!</h1>
 
-<img alt="Simple HTML CV" src="https://github.com/ritaly/HTML-CSS-CV-demo/blob/master/img/resume_icon.png" />
+<!-- <img alt="Simple HTML CV" src="https://github.com/ritaly/HTML-CSS-CV-demo/blob/master/img/resume_icon.png" />
 
-HTML and CSS template for your outstanding job applications
+HTML and CSS template for your outstanding job applications -->
 </div>
 
 ## What is Oh, So Simple HTML CV?
@@ -22,13 +22,16 @@ This repo contains the final source code for free tutorial.
 
 Full explanation and task you can find in Polish: [CV HTML / CSS](https://www.flynerd.pl/2018/07/stworz-cv-w-html-i-css-krok-po-kroku.html)
 
-## Demo
-Check demo here: [Ocat CV](https://ritaly.github.io/HTML-CSS-CV-demo/)
+<!-- ## Link
+Check link here: [Ocat CV](https://cswulin.github.io/) -->
+
+## Site
+My site is live at: [GitHub Pages](https://cswulin.github.io/)
 
 ## Credits
 Please feel free to copy any part of this repo for your own uses.
 
-**[Fly Nerd](https://www.flynerd.pl/)** - I will be happy if you mention **FlyNerd** as an inspiration.
+**[Fly Nerd](https://www.flynerd.pl/)** - This CV is inspired by **FlyNerd**.
 
 Thanks:
 
