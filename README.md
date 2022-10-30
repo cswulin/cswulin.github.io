@@ -18,6 +18,11 @@ HTML and CSS template for your outstanding job applications -->
 * implement good-looking responsive layouts
 * use Font Awesome 5 for social media -->
 
+## Main Content
+
+**English**
+**Math**
+
 
 <!-- This repo contains the final source code for free tutorial.
 
