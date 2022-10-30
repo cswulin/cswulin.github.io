@@ -20,8 +20,9 @@ HTML and CSS template for your outstanding job applications -->
 
 ## Main Content
 
-**English**
-**Math**
+*English
+*Math
+
 
 
 <!-- This repo contains the final source code for free tutorial.
