@@ -38,8 +38,7 @@ header {
   padding: 2em;
   text-align: center;
   background-image: url('./img/field.jpg');
-/*   background-size: cover; */
-  background-size: 100%;
+  background-size: cover;
   background-position: fixed;
   color: white;
 }
